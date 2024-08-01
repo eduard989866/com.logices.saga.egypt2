@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca653554358e35e70e84ac999ad0e2b5, type: 3}
+  m_Name: Match3SfxSettings
+  m_EditorClassIdentifier: 
+  ChipSwap: {fileID: 11400000, guid: 8e0ccab693ab19417405339fcbc19213, type: 2}
+  ChipSwapFailed: {fileID: 11400000, guid: 5e9c822718da3641fa9c1631a532391d, type: 2}
+  ChipMatch: {fileID: 11400000, guid: 090226d010ba8660b9e793acf4bfaa8f, type: 2}
+  ChipAppear: {fileID: 11400000, guid: ff05fb60684367bfce3c3f3e50bd7239, type: 2}
